@@ -15,7 +15,7 @@
             </tr>
             <tr>
                 <td>Syllabus Author</td>
-                <td><input type="text" name="name"></td>
+                <td><input type="text" name="author"></td>
             </tr>
             <tr>
                 <td>Subject</td>
