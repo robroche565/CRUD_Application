@@ -11,6 +11,7 @@
     <body>
         <h1>My Subjects</h1>
         <a href="forms/addform.php">Add Subject</a>
+        <a href="forms/addsyllabusform.php">Add Syllabus</a>
         <table width='100%'>
             <tr>
                 <td>ID</td>
